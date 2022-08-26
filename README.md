@@ -1,1 +1,1 @@
-Live Preview >>> https://i-am-programming.github.io/Calculator/
+Live Preview >>> https://milan-malik.github.io/Calculator/
